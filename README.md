@@ -1,4 +1,4 @@
-# Girl Boos Podcast Hub
+# Girl Boss Podcast Hub
 A website for women and girls who are passionate about personal improvement. Girl boss podcast hub offers a selection of podcast to listen from anywhere. 
 
 **Link to project:** 
