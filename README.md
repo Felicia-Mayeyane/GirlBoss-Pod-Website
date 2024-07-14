@@ -4,6 +4,11 @@ A website for women and girls who are passionate about personal improvement. Gir
 **Link to project:** 
 
 
+<img width="1440" alt="Screenshot 2024-07-14 at 20 33 47" src="https://github.com/user-attachments/assets/0d092ef9-63d6-4eac-bbab-6c8b89d927a1">
+
+
+
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap
