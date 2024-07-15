@@ -1,7 +1,7 @@
 # Girl Boss Podcast Hub
 A website for women and girls who are passionate about personal development. Girl boss podcast hub offers a selection of podcasts to listen from anywhere. 
 
-**Link to project:** 
+**Link to project:**   https://girlbosspod.netlify.app/
 
 
 <img width="1440" alt="Screenshot 2024-07-14 at 20 33 47" src="https://github.com/user-attachments/assets/0d092ef9-63d6-4eac-bbab-6c8b89d927a1">
